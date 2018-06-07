@@ -1,0 +1,9 @@
+name: CustomHelp
+version: 0.1-Stable
+author: PanWykrzyknik
+main: customhelp.Main
+commands:
+  help:
+    aliases: [ehelp, pomoc, epomoc]
+  customhelp:
+    permission: customhelp.reload
